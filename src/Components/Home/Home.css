@@ -1,0 +1,48 @@
+.servise-1{
+    background-image: url(../../img/service-img-1.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    margin: 10px;
+    padding: 130px;
+    font-weight:900;
+    font-size: larger;
+}
+.servise-2{
+    background-image: url(../../img/service-img-6.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    margin: 10px;
+    padding: 130px;
+}
+.servise-3{
+    background-image: url(../../img/service-img-3.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    margin: 10px;
+    text-align: center;
+    padding: 130px;
+}
+#sercice-text-1{
+    background-color:goldenrod;
+    height: auto;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+#sercice-text-2{
+    background-color:goldenrod;
+    height: auto;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+#sercice-text-3{
+    background-color:goldenrod;
+    height: auto;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
