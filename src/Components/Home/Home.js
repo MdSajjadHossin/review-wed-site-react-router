@@ -6,7 +6,7 @@ import img3 from "../../img/music-img-3.jpeg";
 import img4 from "../../img/music-img-4.jpg";
 // import img5 from "../../img/service-img-1.jpg"
 // import img6 from "../../img/service-img-2.jpg"
-import img7 from "../../img/music-img-5.jpg"
+import img7 from "../../img/music-img-5.jpg";
 import Button from '@restart/ui/esm/Button';
 import "./Home.css";
 
