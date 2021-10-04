@@ -1,0 +1,13 @@
+.faculties{
+        width: 400px;
+        margin: 5px;
+        padding: 5px;
+        box-shadow: 4px 4px 3px 4px gainsboro;
+        border-radius: 5px;
+    }
+    .course-img{
+        padding: 5px;
+        margin: 5px;
+        width: 300px;
+        height: 300px;
+    }

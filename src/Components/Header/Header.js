@@ -1,5 +1,7 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
+import './Header.css';
 
 const Header = () => {
     return (
@@ -9,10 +11,10 @@ const Header = () => {
     <Container>
     <Navbar.Brand className="bg-primary rounded-1 fw-bold px-3" href="/home" >Hermony Music School</Navbar.Brand>
     <Nav className="me-auto">
-      <Nav.Link href="/home">Home</Nav.Link>
-      <Nav.Link href="/services">Services</Nav.Link>
-      <Nav.Link href="/faculty">Faculty</Nav.Link>
-      <Nav.Link href="/about">About</Nav.Link>
+      <NavLink id="nav-link" to="/home">Home</NavLink>
+      <NavLink id="nav-link" to="/services">Cources</NavLink>
+      <NavLink id="nav-link" to="/faculty">Faculty</NavLink>
+      <NavLink id="nav-link" to="/about">About</NavLink>
     </Nav>
     </Container>
   </Navbar>
