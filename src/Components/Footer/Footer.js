@@ -15,9 +15,6 @@ const Footer = () => {
                 <h3>{faPhoneNo} Phone: ++19389894</h3>
                 <h3>{faemail} Email: hurmony-music-school@gmail.com</h3>
         </div>
-        {/* <div>
-            <img className="w-auto h-25" src={location} alt="" />
-        </div> */}
         </div>
         </>
         

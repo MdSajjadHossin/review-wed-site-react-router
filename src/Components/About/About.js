@@ -31,13 +31,13 @@ const About = () => {
             <div>
                 <img className="campus-img" src={img8} alt="" />
             </div>
-            <div className="m-5 p-5 w-50 h-50 text-light bg-danger">
+            <div className="m-5 p-5 w-50 h-50 text-light bg-secondary">
                 <h2>Campus Tours</h2>
                 <p>Prospective students and their parents are invited to attend a tour, hear a concert, and explore what Rythmo Music School has to offer.
                 Tours are available year-round on Mondays, Wednesdays, and Fridays at 10 am, excluding holidays and audition days. If you are hoping to meet with a faculty member during your visit.
                 <div className="mb-2 my-2">
                 <Button className="bg-primary rounded-2 border-0 p-2 text-light fw-bold">
-                    Learn More
+                    Contact Us
                 </Button>
                 </div>
                 </p>
