@@ -84,8 +84,8 @@ const Home = () => {
         </div>
         <div className="d-flex">
             <div  className="m-5 p-5 w-50 h-50 text-light bg-dark">
-                <h3>How To Choose an</h3>
-                <h2>MUSICAL INSTRUMENT</h2>
+                <h3>About</h3>
+                <h2>Our Facalty</h2>
                 <p>If you want to dip into the fascinating world of music but don`t know how to play musical instruments and are unsure where to start, you definitely need to contact us! Our experts provide professional, practical, and theoretical music instructions that will help you choose the right direction.</p>
                 <div className="mb-2">
                 <Button className="bg-primary rounded-2 border-0 p-2 text-light fw-bold">

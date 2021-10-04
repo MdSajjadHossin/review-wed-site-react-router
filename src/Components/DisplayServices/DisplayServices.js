@@ -21,8 +21,6 @@ const DisplayServices = (props) => {
             </div>
             </div>
         </div>
-
-        
         </>
         
         
