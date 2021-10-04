@@ -12,10 +12,10 @@ npm install
 adter that the site will run successfully...
 
 The site contains:
-=> Home Page
-=> Service Page
-=> About Page
-=> Faculty Page
-=>404 Not found page
+* Home Page
+* Service Page
+* About Page
+* Faculty Page
+* 404 Not found page
 
 The site if fully functional and it can route form one page to another with out loding...
